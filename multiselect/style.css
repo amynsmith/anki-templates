@@ -1,0 +1,68 @@
+.cloze {
+    font-weight: bold;
+    color: blue;
+}
+
+.nightMode .cloze {
+    color: lightblue;
+}
+
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+    background-color: white;
+}
+
+img {
+    max-height: 140px
+}
+
+.hide {
+    visibility: hidden;
+    font-size: 0px;
+}
+
+.hide img {
+    max-width: 0px;
+}
+
+.cloze {
+    font-weight: bold;
+    color: brown;
+    visibility: visible;
+}
+
+
+.box {
+    color: brown;
+    display: inline-block;
+    border-radius: 1.5em;
+    padding: 4px 8px;
+    border: solid 2px;
+    margin: 5px;
+    border-color: brown;
+    background: pink;
+    margin: 1.5px;
+}
+
+.highlight {
+    color: brown;
+    border-color: brown;
+    background: yellow;
+}
+
+#hidden {
+    display: none;
+}
+
+.gray {
+    color: gray;
+}
+
+.green {
+    color: green;
+    border-color: green;
+    background-color: lightyellow;
+}
